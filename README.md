@@ -2,6 +2,8 @@
 
 My repository for the capstone project at GA. This Readme will be expanded upon as the project grows.
 
+**Note:** This is a work in progress, while this notice remains I consider the repo to be unfinished, unpolished, and in need of more work.
+
 ----
 
 ### Structure
