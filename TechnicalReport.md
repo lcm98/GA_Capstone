@@ -6,9 +6,9 @@ My data is mainly source via an API provided by the website AlphaVantage. I expl
 	
 Due to it's nature (purely numeric) there was not a huge need for complex transformations or feature engineering, rather the difficulties were in dealing with the timeseries nature. Although with that said, my data does get scaled before being passed into the Neural Net used.
 
-### Operationalized Your Outcome Variable, including justification:
+### Operationalizing my Variabls:
 
-I did things. !
+Working with Stock data, what I found most important to decide, was whether the price of a stock will go up, or down. To this end I turned the focus of my project from a regression, where I attempted to predict the closing price, to a classification, where I try to predict if the price will change positively or negatively.
 
 ### Choice of Model:
 
